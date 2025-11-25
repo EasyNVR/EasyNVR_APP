@@ -58,9 +58,9 @@ npm run tailwind
 │  ├─ store                       // 状态管理，本地缓存函数
 │  └─ http                        // 网络请求 API目录
 ├─ pages                          // 页面
-├─ hybrid                         // webview模块（暂时弃用。参考uniapp web-view文档）
+├─ hybrid                         // webview模块（弃用。参考uniapp web-view文档）
 ├─ doc                            // 存放文档
-├─ constants                      // 共用产量
+├─ constants                      // 常量
 └─ components                     // 公共组件
 ```
 
